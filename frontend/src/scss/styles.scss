@@ -1,0 +1,31 @@
+// Import all of Bootstrap's CSS
+@import "~bootstrap/scss/bootstrap";
+@import "bootstrap-icons/font/bootstrap-icons.css";
+
+// p,
+// span {
+//   font-size: 12px;
+//   font-weight: 500;
+// }
+
+body {
+  background-color: #ffffff;
+}
+
+.todoContainer {
+  background-color: #f2f4f7;
+}
+
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  -webkit-box-shadow: inset 0 0 6px rgba(1, 11, 26, 0.3);
+  border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+  border-radius: 10px;
+  -webkit-box-shadow: inset 0 0 20px 20px rgb(9 22 178 / 82%);
+}
