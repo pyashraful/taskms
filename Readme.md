@@ -2,7 +2,7 @@
 
 #### Pre-requisites
 
-- node js version 16 or later
+- node js version 16 or latest
 
 #### For frontend
 
