@@ -1,6 +1,6 @@
-#Task App
+# Task App
 
-####Pre-requisites
+#### Pre-requisites
 
 - node js version 16 or later
 
@@ -20,7 +20,7 @@ npm install
 node index.js
 ```
 
-##Screen Shot
+## Screen Shot
 
 - Home page
   ![front page](./screenshot/Screenshot%201.png)
